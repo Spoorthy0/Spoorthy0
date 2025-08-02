@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👩‍💻 Spoorthy's Portfolio
 
-<!--
-**Spoorthy0/Spoorthy0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm **Spoorthy**, a B.Tech Computer Science Engineering student at **Sri Indu College of Engineering and Technology**. I'm passionate about coding, problem-solving, and building full-stack web applications using modern technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+
+- 🎓 Pursuing B.Tech in Computer Science Engineering
+- 🏫 College: Sri Indu College of Engineering and Technology
+- 🌱 Currently learning and building projects with **Java Full Stack**
+- 🚀 Passionate about backend development, databases, and deployment
+- 👩‍💻 Interested in Web Development, Java, APIs, and Cloud platforms
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: Java, JavaScript, HTML, CSS, SQL
+- **Frontend**: React.js,JSP
+- **Backend**: Spring Boot, Servlets, JDBC
+- **Databases**: MySQL, MongoDB (basics)
+- **Tools & Platforms**: Git, GitHub, VS Code, Eclipse, Tomcat, XAMPP
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: spoorthyreddy.work@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/spoorthy-yedla/
+- 💻 GitHub: https://github.com/Spoorthy0
+
+---
+
+> "First, solve the problem. Then, write the code." — John Johnson
